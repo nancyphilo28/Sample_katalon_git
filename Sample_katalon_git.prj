@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Sample_katalon_git</name>
+   <tag></tag>
+   <UUID>249162bf-381b-4456-9ceb-4dbece66e3f4</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
